@@ -1,0 +1,15 @@
+h1 { font-size: 60px;}
+.list {background-color: yellow;}
+.image {height: 150px;
+    width: 150px;}
+.container {background-color: #efeee7;
+    font-style: Georgia,"Times New Roman",Times,serif;
+    font-color: #333333}
+body {
+    margin: 0;
+    padding: 0;
+  }
+h1 {background-color: #333333;
+    font-color: #eee;
+    font-size: "#eee";
+    font-size: 28px;}
